@@ -1,0 +1,305 @@
+[09Mar2024 14:54:26.874] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeclientuserdev, --version, MOD_DEV, --assetIndex, 5, --assetsDir, C:\Users\razee\.mcreator\gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mixin.config, mixins.netherenditions.json]
+[09Mar2024 14:54:26.892] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[09Mar2024 14:54:27.330] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[09Mar2024 14:54:27.626] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[09Mar2024 14:54:27.909] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[09Mar2024 14:54:28.216] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/razee/.mcreator/gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[09Mar2024 14:54:28.276] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: Intel(R) Iris(R) Xe Graphics GL version 4.6.0 - Build 31.0.101.4953, Intel
+[09Mar2024 14:54:29.543] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\razee\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.0\7f9181f85acc66547685a72020713fc8cbde98\javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Mar2024 14:54:29.559] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\razee\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.0\7872f5205685fdd26fae39b1be79b0e60ca5b7bd\lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Mar2024 14:54:29.576] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\razee\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.0\d501d161cabed08b3c139a2c6217b02a39f3c3e9\mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Mar2024 14:54:29.593] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\razee\.mcreator\gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.0\ffd3c6debac0a388c9e33ac43c9f5eafb91cb466\fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[09Mar2024 14:54:30.527] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[09Mar2024 14:54:35.983] [main/WARN] [mixin/]: Compatibility level JAVA_17 specified by mixins.netherenditions.json is higher than the maximum level supported by this version of mixin (JAVA_13).
+[09Mar2024 14:54:35.988] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Mar2024 14:54:36.048] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by zume-lexforge.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[09Mar2024 14:54:36.060] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by zume-lexforge18.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[09Mar2024 14:54:36.076] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by zume-lexforge16.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[09Mar2024 14:54:36.088] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by zume-vintage.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[09Mar2024 14:54:36.109] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by zume-archaic.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[09Mar2024 14:54:36.204] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclientuserdev' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\razee\.mcreator\gradle\caches\forge_gradle\assets, --assetIndex, 5]
+[09Mar2024 14:54:36.809] [main/INFO] [mixin/]: Attempting to load Fernflower decompiler (Threaded mode)
+[09Mar2024 14:54:36.812] [main/INFO] [mixin/]: Fernflower could not be loaded, exported classes will not be decompiled. NoClassDefFoundError: org/jetbrains/java/decompiler/main/extern/IResultSaver
+[09Mar2024 14:54:37.118] [main/INFO] [mixin/]: Preparing mixins for MixinEnvironment[DEFAULT]
+[09Mar2024 14:54:37.120] [main/INFO] [mixin/]: Selecting config mixins.netherenditions.json
+[09Mar2024 14:54:37.137] [main/WARN] [mixin/]: Reference map 'mixins.netherenditions.refmap.json' for mixins.netherenditions.json could not be read. If this is a development environment you can ignore this message
+[09Mar2024 14:54:37.140] [main/INFO] [mixin/]: Selecting config embeddiumplus.mixin.json
+[09Mar2024 14:54:38.241] [main/INFO] [mixin/]: Remapping refMap embeddiumplus.mixin-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.241] [main/INFO] [mixin/]: Selecting config reeses-sodium-options.mixins.json
+[09Mar2024 14:54:38.245] [main/INFO] [mixin/]: Remapping refMap textrues_embeddium_options-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.247] [main/INFO] [mixin/]: Selecting config zume-lexforge.mixins.json
+[09Mar2024 14:54:38.361] [main/INFO] [mixin/]: Remapping refMap zume-lexforge-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.377] [main/INFO] [mixin/]: Selecting config zume-lexforge18.mixins.json
+[09Mar2024 14:54:38.386] [main/INFO] [mixin/]: Remapping refMap zume-lexforge18-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.387] [main/INFO] [mixin/]: Selecting config zume-lexforge16.mixins.json
+[09Mar2024 14:54:38.390] [main/INFO] [mixin/]: Remapping refMap zume-lexforge16-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.390] [main/INFO] [mixin/]: Selecting config zume-vintage.mixins.json
+[09Mar2024 14:54:38.394] [main/INFO] [mixin/]: Remapping refMap zume-vintage-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.395] [main/INFO] [mixin/]: Selecting config zume-archaic.mixins.json
+[09Mar2024 14:54:38.402] [main/INFO] [mixin/]: Remapping refMap zume-archaic-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:38.402] [main/INFO] [mixin/]: Selecting config embeddium.mixins.json
+[09Mar2024 14:54:38.490] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 54 options available, 0 override(s) found
+[09Mar2024 14:54:38.504] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[09Mar2024 14:54:39.735] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) Iris(R) Xe Graphics, version=DriverVersion=31.0.101.4953]
+[09Mar2024 14:54:39.736] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=UNKNOWN, name=Virtual Display Device, version=DriverVersion=1.0.0.9]
+[09Mar2024 14:54:39.769] [main/INFO] [mixin/]: Remapping refMap embeddium-refmap.json using C:\Users\razee\MCreatorWorkspaces\netherenditions_revived\build\createSrgToMcp\output.srg
+[09Mar2024 14:54:39.771] [main/INFO] [mixin/]: Selecting config mixinextras.init.mixins.json
+[09Mar2024 14:54:40.340] [main/INFO] [mixin/]: Preparing mixins.netherenditions.json (8)
+[09Mar2024 14:54:40.611] [main/INFO] [mixin/]: Preparing embeddiumplus.mixin.json (27)
+[09Mar2024 14:54:41.525] [main/WARN] [mixin/]: Error loading class: mezz/jei/gui/overlay/IngredientListOverlay (java.lang.ClassNotFoundException: mezz.jei.gui.overlay.IngredientListOverlay)
+[09Mar2024 14:54:41.544] [main/INFO] [mixin/]: Preparing reeses-sodium-options.mixins.json (8)
+[09Mar2024 14:54:41.680] [main/INFO] [mixin/]: Preparing zume-lexforge.mixins.json (1)
+[09Mar2024 14:54:41.690] [main/INFO] [mixin/]: Preparing zume-lexforge18.mixins.json (2)
+[09Mar2024 14:54:41.692] [main/INFO] [mixin/]: Preparing zume-lexforge16.mixins.json (1)
+[09Mar2024 14:54:41.693] [main/INFO] [mixin/]: Preparing zume-vintage.mixins.json (2)
+[09Mar2024 14:54:41.695] [main/INFO] [mixin/]: Preparing zume-archaic.mixins.json (2)
+[09Mar2024 14:54:41.696] [main/INFO] [mixin/]: Preparing embeddium.mixins.json (0)
+[09Mar2024 14:54:41.696] [main/INFO] [mixin/]: Preparing mixinextras.init.mixins.json (0)
+[09Mar2024 14:54:42.485] [main/INFO] [mixin/]: Prepared 43 mixins in 5.360 sec (124.7ms avg) (0ms load, 0ms transform, 0ms plugin)
+[09Mar2024 14:54:42.510] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[09Mar2024 14:54:42.531] [main/INFO] [mixin/]: Mixing features.textures.animations.tracking.DrawContextMixin from embeddium.mixins.json into net.minecraft.client.gui.GuiGraphics
+[09Mar2024 14:54:42.857] [main/INFO] [mixin/]: Mixing fps.GpuUsageMixin from embeddiumplus.mixin.json into net.minecraft.client.Minecraft
+[09Mar2024 14:54:42.884] [main/INFO] [mixin/]: Mixing core.MinecraftClientMixin from embeddium.mixins.json into net.minecraft.client.Minecraft
+[09Mar2024 14:54:42.886] [main/INFO] [mixin/]: Renaming synthetic method lambda$postInit$0(Lnet/minecraft/client/gui/screens/Screen;)Lnet/minecraft/client/gui/screens/Screen; to md0a6f8c$lambda$postInit$0$0 in embeddium.mixins.json:core.MinecraftClientMixin
+[09Mar2024 14:54:45.712] [pool-4-thread-1/INFO] [mixin/]: Mixing entitydistance.EntityTypeMixin from embeddiumplus.mixin.json into net.minecraft.world.entity.EntityType
+[09Mar2024 14:54:45.786] [pool-4-thread-1/INFO] [mixin/]: Mixing entitydistance.TileEntityTypeMixin from embeddiumplus.mixin.json into net.minecraft.world.level.block.entity.BlockEntityType
+[09Mar2024 14:54:45.983] [pool-4-thread-1/INFO] [mixin/]: Mixing features.render.immediate.DirectionMixin from embeddium.mixins.json into net.minecraft.core.Direction
+[09Mar2024 14:54:46.427] [pool-4-thread-1/INFO] [mixin/]: Mixing features.options.render_layers.LeavesBlockMixin from embeddium.mixins.json into net.minecraft.world.level.block.LeavesBlock
+[09Mar2024 14:54:46.518] [pool-4-thread-1/INFO] [mixin/]: Mixing fastmodels.BedMixin from embeddiumplus.mixin.json into net.minecraft.world.level.block.BedBlock
+[09Mar2024 14:54:46.606] [pool-4-thread-1/INFO] [mixin/]: Mixing fastmodels.ChestsMixin from embeddiumplus.mixin.json into net.minecraft.world.level.block.ChestBlock
+[09Mar2024 14:54:46.775] [pool-4-thread-1/INFO] [mixin/]: Mixing fastmodels.ChestsMixin from embeddiumplus.mixin.json into net.minecraft.world.level.block.EnderChestBlock
+[09Mar2024 14:54:46.857] [pool-4-thread-1/INFO] [mixin/]: Mixing ChorusPlantBlockMixin from mixins.netherenditions.json into net.minecraft.world.level.block.ChorusPlantBlock
+[09Mar2024 14:54:46.896] [pool-4-thread-1/INFO] [mixin/]: Mixing ChorusFlowerBlockMixin from mixins.netherenditions.json into net.minecraft.world.level.block.ChorusFlowerBlock
+[09Mar2024 14:54:52.958] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 188 Datafixer optimizations took 512 milliseconds
+[09Mar2024 14:54:55.943] [pool-4-thread-1/INFO] [mixin/]: Mixing BiomeSourceMixin from mixins.netherenditions.json into net.minecraft.world.level.biome.BiomeSource
+[09Mar2024 14:54:55.965] [pool-4-thread-1/INFO] [mixin/]: Mixing features.world.biome.BiomeMixin from embeddium.mixins.json into net.minecraft.world.level.biome.Biome
+[09Mar2024 14:54:56.023] [pool-4-thread-1/INFO] [mixin/]: Mixing features.world.biome.BiomeSpecialEffectsMixin from embeddium.mixins.json into net.minecraft.world.level.biome.BiomeSpecialEffects
+[09Mar2024 14:54:56.191] [pool-4-thread-1/INFO] [mixin/]: Mixing TheEndBiomeSourceMixin from mixins.netherenditions.json into net.minecraft.world.level.biome.TheEndBiomeSource
+[09Mar2024 14:54:56.193] [pool-4-thread-1/INFO] [mixin/]: Renaming synthetic method lambda$init$1(Lnet/minecraft/core/HolderGetter;)Ljava/lang/Object; to md0a6f8c$lambda$init$1$0 in mixins.netherenditions.json:TheEndBiomeSourceMixin
+[09Mar2024 14:54:56.194] [pool-4-thread-1/INFO] [mixin/]: Renaming synthetic method lambda$modifyCodec$0(Lcom/mojang/serialization/codecs/RecordCodecBuilder$Instance;)Lcom/mojang/datafixers/kinds/App; to md0a6f8c$lambda$modifyCodec$0$1 in mixins.netherenditions.json:TheEndBiomeSourceMixin
+[09Mar2024 14:54:56.284] [pool-4-thread-1/WARN] [mixin/]: Write access to @Mutable @Final field CODEC:Lcom/mojang/serialization/Codec; in mixins.netherenditions.json:TheEndBiomeSourceMixin::handler$zzb000$modifyCodec
+[09Mar2024 14:54:56.322] [pool-4-thread-1/INFO] [mixin/]: Mixing NoiseGeneratorSettingsAccess from mixins.netherenditions.json into net.minecraft.world.level.levelgen.NoiseGeneratorSettings
+[09Mar2024 14:54:56.882] [Render thread/INFO] [mixin/]: Mixing workarounds.event_loop.RenderSystemMixin from embeddium.mixins.json into com.mojang.blaze3d.systems.RenderSystem
+[09Mar2024 14:54:56.928] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.BufferBuilderMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.BufferBuilder
+[09Mar2024 14:54:56.939] [Render thread/INFO] [mixin/]: Mixing core.render.immediate.consumer.BufferBuilderMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.BufferBuilder
+[09Mar2024 14:54:56.970] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.sorting.BufferBuilderMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.BufferBuilder
+[09Mar2024 14:54:56.991] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.intrinsics.BufferBuilderMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.BufferBuilder
+[09Mar2024 14:54:57.361] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.sorting.VertexSorterMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.VertexSorting
+[09Mar2024 14:54:57.434] [Render thread/INFO] [mixin/]: Mixing features.gui.screen.LevelLoadingScreenMixin from embeddium.mixins.json into net.minecraft.client.gui.screens.LevelLoadingScreen
+[09Mar2024 14:54:57.435] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$renderChunks$0(Lit/unimi/dsi/fastutil/objects/Object2IntMap$Entry;)V to md0a6f8c$lambda$renderChunks$0$0 in embeddium.mixins.json:features.gui.screen.LevelLoadingScreenMixin
+[09Mar2024 14:54:57.502] [Render thread/INFO] [mixin/]: Mixing features.options.overlays.InGameHudMixin from embeddium.mixins.json into net.minecraft.client.gui.Gui
+[09Mar2024 14:54:57.550] [Render thread/INFO] [mixin/]: Mixing core.world.biome.ClientWorldMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientLevel
+[09Mar2024 14:54:57.554] [Render thread/INFO] [mixin/]: Mixing core.world.map.ClientWorldMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientLevel
+[09Mar2024 14:54:57.558] [Render thread/INFO] [mixin/]: Mixing features.render.world.sky.ClientWorldMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientLevel
+[09Mar2024 14:54:57.559] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$redirectSampleColor$0(Lnet/minecraft/world/level/Level;III)I to md0a6f8c$lambda$redirectSampleColor$0$0 in embeddium.mixins.json:features.render.world.sky.ClientWorldMixin
+[09Mar2024 14:54:57.828] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/razee/MCreatorWorkspaces/netherenditions_revived/build/fg_cache/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[09Mar2024 14:54:57.829] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/razee/MCreatorWorkspaces/netherenditions_revived/build/fg_cache/net/minecraftforge/forge/1.20.1-47.2.0_mapped_official_1.20.1/forge-1.20.1-47.2.0_mapped_official_1.20.1.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[09Mar2024 14:54:57.874] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Mar2024 14:54:57.888] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[09Mar2024 14:54:58.201] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[09Mar2024 14:54:58.206] [Render thread/INFO] [mixin/]: Mixing borderless.BorderlessWindowMixin from embeddiumplus.mixin.json into com.mojang.blaze3d.platform.Window
+[09Mar2024 14:54:58.215] [Render thread/INFO] [mixin/]: Mixing borderless.accessors.MainWindowAccessor from embeddiumplus.mixin.json into com.mojang.blaze3d.platform.Window
+[09Mar2024 14:54:58.224] [Render thread/INFO] [mixin/]: Mixing workarounds.context_creation.WindowMixin from embeddium.mixins.json into com.mojang.blaze3d.platform.Window
+[09Mar2024 14:54:58.496] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: Intel
+[09Mar2024 14:54:58.497] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: Intel(R) Iris(R) Xe Graphics
+[09Mar2024 14:54:58.497] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 - Build 31.0.101.4953
+[09Mar2024 14:54:58.775] [Render thread/WARN] [Embeddium++/Config]: Loading Embeddium++Config
+[09Mar2024 14:54:58.800] [Render thread/INFO] [Embeddium++/Config]: Updating config cache
+[09Mar2024 14:54:58.802] [Render thread/INFO] [Embeddium++/Config]: Cache updated successfully
+[09Mar2024 14:54:58.830] [Render thread/INFO] [mixin/]: Mixing features.textures.NativeImageAccessor from embeddium.mixins.json into com.mojang.blaze3d.platform.NativeImage
+[09Mar2024 14:54:58.925] [Render thread/INFO] [mixin/]: Mixing MouseHandlerMixin from zume-lexforge.mixins.json into net.minecraft.client.MouseHandler
+[09Mar2024 14:54:58.992] [Render thread/INFO] [mixin/]: Mixing borderless.KeyboardF11Mixin from embeddiumplus.mixin.json into net.minecraft.client.KeyboardHandler
+[09Mar2024 14:54:59.626] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[09Mar2024 14:54:59.631] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[09Mar2024 14:54:59.668] [modloading-worker-0/INFO] [zume/]: Loading LexZume...
+[09Mar2024 14:55:00.084] [modloading-worker-0/INFO] [mixin/]: Mixing core.model.colors.ItemColorsMixin from embeddium.mixins.json into net.minecraft.client.color.item.ItemColors
+[09Mar2024 14:55:00.149] [modloading-worker-0/INFO] [mixin/]: Mixing core.model.colors.BlockColorsMixin from embeddium.mixins.json into net.minecraft.client.color.block.BlockColors
+[09Mar2024 14:55:00.209] [modloading-worker-0/INFO] [mixin/]: Mixing features.shader.uniform.ShaderProgramMixin from embeddium.mixins.json into net.minecraft.client.renderer.ShaderInstance
+[09Mar2024 14:55:00.275] [modloading-worker-0/INFO] [mixin/]: Mixing darkness.GameRendererMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.GameRenderer
+[09Mar2024 14:55:00.279] [modloading-worker-0/INFO] [mixin/]: Mixing features.gui.hooks.console.GameRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.GameRenderer
+[09Mar2024 14:55:01.391] [Render thread/INFO] [mixin/]: Mixing darkness.NativeImageTextureMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.texture.DynamicTexture
+[09Mar2024 14:55:01.612] [Render thread/INFO] [mixin/]: Mixing features.render.gui.font.GlyphRendererMixin from embeddium.mixins.json into net.minecraft.client.gui.font.glyphs.BakedGlyph
+[09Mar2024 14:55:01.708] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteAtlasTextureMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.TextureAtlas
+[09Mar2024 14:55:01.785] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.VertexFormatMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.VertexFormat
+[09Mar2024 14:55:01.793] [Render thread/INFO] [mixin/]: Mixing core.render.VertexFormatAccessor from embeddium.mixins.json into com.mojang.blaze3d.vertex.VertexFormat
+[09Mar2024 14:55:01.854] [Render thread/INFO] [mixin/]: Mixing features.render.model.item.ItemRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.entity.ItemRenderer
+[09Mar2024 14:55:01.961] [Render thread/INFO] [mixin/]: Mixing fontshadow.FontMixin from embeddiumplus.mixin.json into net.minecraft.client.gui.Font
+[09Mar2024 14:55:02.171] [Render thread/INFO] [mixin/]: Mixing entitydistance.TileDispatcherMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.blockentity.BlockEntityRenderDispatcher
+[09Mar2024 14:55:02.178] [Render thread/INFO] [mixin/]: Mixing fastmodels.TileRenderMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.blockentity.BlockEntityRenderDispatcher
+[09Mar2024 14:55:02.220] [Render thread/INFO] [mixin/]: Mixing entitydistance.EntityDispatcherMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.entity.EntityRenderDispatcher
+[09Mar2024 14:55:02.221] [Render thread/INFO] [mixin/]: Mixing features.render.entity.shadows.EntityRenderDispatcherMixin from embeddium.mixins.json into net.minecraft.client.renderer.entity.EntityRenderDispatcher
+[09Mar2024 14:55:02.500] [Render thread/INFO] [mixin/]: Mixing core.model.quad.BakedQuadFactoryMixin from embeddium.mixins.json into net.minecraft.client.renderer.block.model.FaceBakery
+[09Mar2024 14:55:02.570] [Render thread/INFO] [mixin/]: Mixing features.render.immediate.buffer_builder.fast_delegate.BufferSourceMixin from embeddium.mixins.json into net.minecraft.client.renderer.MultiBufferSource$BufferSource
+[09Mar2024 14:55:02.607] [Render thread/WARN] [mixin/]: @At("LOAD" implicit VertexConsumer) has invalid IMPLICIT discriminator for opcode 2 in net/minecraft/client/renderer/MultiBufferSource$BufferSource::lambda$endBatch$0(Lnet/minecraft/client/renderer/RenderType;)V: Found 0 candidate variables but exactly 1 is required.
+[09Mar2024 14:55:02.607] [Render thread/WARN] [mixin/]: @At("LOAD" implicit VertexConsumer) has invalid IMPLICIT discriminator for opcode 3 in net/minecraft/client/renderer/MultiBufferSource$BufferSource::lambda$endBatch$0(Lnet/minecraft/client/renderer/RenderType;)V: Found 0 candidate variables but exactly 1 is required.
+[09Mar2024 14:55:02.621] [Render thread/INFO] [mixin/]: Mixing features.render.model.block.BlockModelRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.block.ModelBlockRenderer
+[09Mar2024 14:55:02.625] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.BlockModelRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.block.ModelBlockRenderer
+[09Mar2024 14:55:02.722] [Render thread/INFO] [mixin/]: Mixing darkness.LightMapTexManagerMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.LightTexture
+[09Mar2024 14:55:02.723] [Render thread/INFO] [mixin/]: Mixing darkness.accessors.LightTextureAccessor from embeddiumplus.mixin.json into net.minecraft.client.renderer.LightTexture
+[09Mar2024 14:55:02.777] [Render thread/INFO] [mixin/]: Mixing features.render.world.clouds.WorldRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[09Mar2024 14:55:02.784] [Render thread/INFO] [mixin/]: Mixing features.options.weather.WorldRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[09Mar2024 14:55:02.785] [Render thread/INFO] [mixin/]: Mixing features.render.gui.outlines.WorldRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[09Mar2024 14:55:02.808] [Render thread/INFO] [mixin/]: Mixing features.render.world.sky.WorldRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[09Mar2024 14:55:02.809] [Render thread/INFO] [mixin/]: Mixing core.render.world.WorldRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.LevelRenderer
+[09Mar2024 14:55:02.811] [Render thread/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method setSectionDirty in embeddium.mixins.json:core.render.world.WorldRendererMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[09Mar2024 14:55:03.207] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteBillboardParticleMixin from embeddium.mixins.json into net.minecraft.client.particle.TextureSheetParticle
+[09Mar2024 14:55:03.225] [Render thread/INFO] [mixin/]: Mixing features.render.particle.BillboardParticleMixin from embeddium.mixins.json into net.minecraft.client.particle.SingleQuadParticle
+[09Mar2024 14:55:03.474] [Render thread/INFO] [mixin/]: Mixing features.gui.hooks.debug.DebugHudMixin from embeddium.mixins.json into net.minecraft.client.gui.components.DebugScreenOverlay
+[09Mar2024 14:55:03.705] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: []
+[09Mar2024 14:55:03.718] [Render thread/INFO] [mixin/]: Mixing zume.ZumeKeyBindsForgeMixin from embeddiumplus.mixin.json into dev.nolij.zume.lexforge.ZumeKeyBind
+[09Mar2024 14:55:03.756] [Render thread/INFO] [mixin/]: Mixing features.options.overlays.VanillaGuiOverlayMixin from embeddium.mixins.json into net.minecraftforge.client.gui.overlay.VanillaGuiOverlay
+[09Mar2024 14:55:03.791] [Render thread/INFO] [mixin/]: Mixing cloudheight.CloudHeightMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.DimensionSpecialEffects
+[09Mar2024 14:55:03.792] [Render thread/INFO] [mixin/]: Mixing darkness.DimensionEffectsMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.DimensionSpecialEffects
+[09Mar2024 14:55:03.809] [Render thread/INFO] [mixin/]: Mixing darkness.DimensionEffectsMixin$NetherMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.DimensionSpecialEffects$NetherEffects
+[09Mar2024 14:55:03.824] [Render thread/INFO] [mixin/]: Mixing darkness.DimensionEffectsMixin$EndMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.DimensionSpecialEffects$EndEffects
+[09Mar2024 14:55:04.107] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[09Mar2024 14:55:04.150] [Render thread/INFO] [mixin/]: Mixing language.LanguageMixin from embeddiumplus.mixin.json into net.minecraft.client.gui.screens.LanguageSelectScreen
+[09Mar2024 14:55:04.188] [Render thread/INFO] [mixin/]: Mixing features.gui.hooks.settings.OptionsScreenMixin from embeddium.mixins.json into net.minecraft.client.gui.screens.OptionsScreen
+[09Mar2024 14:55:04.324] [Render thread/INFO] [mixin/]: Mixing features.model.SimpleBakedModelAccessor from embeddium.mixins.json into net.minecraft.client.resources.model.SimpleBakedModel
+[09Mar2024 14:55:04.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Mar2024 14:55:04.357] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.upload.SpriteContentsAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents
+[09Mar2024 14:55:04.366] [Render thread/INFO] [mixin/]: Mixing features.textures.mipmaps.SpriteContentsMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents
+[09Mar2024 14:55:04.373] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteContentsMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents
+[09Mar2024 14:55:04.375] [Render thread/INFO] [mixin/]: Mixing features.textures.SpriteContentsInvoker from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents
+[09Mar2024 14:55:04.387] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field originalImage:Lcom/mojang/blaze3d/platform/NativeImage; in embeddium.mixins.json:features.textures.mipmaps.SpriteContentsMixin::redirect$zdb000$sodium$beforeGenerateMipLevels
+[09Mar2024 14:55:04.453] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteContentsAnimationFrameAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$FrameInfo
+[09Mar2024 14:55:04.461] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.upload.SpriteContentsAnimationFrameAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$FrameInfo
+[09Mar2024 14:55:04.600] [Worker-Main-5/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[09Mar2024 14:55:04.629] [Render thread/INFO] [mixin/]: Mixing togglefog.FogMixin from embeddiumplus.mixin.json into net.minecraft.client.renderer.FogRenderer
+[09Mar2024 14:55:04.632] [Render thread/INFO] [mixin/]: Mixing features.render.world.sky.BackgroundRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.FogRenderer
+[09Mar2024 14:55:04.632] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$redirectSampleColor$1(Lnet/minecraft/client/multiplayer/ClientLevel;FLnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3; to md0a6f8c$lambda$redirectSampleColor$1$0 in embeddium.mixins.json:features.render.world.sky.BackgroundRendererMixin
+[09Mar2024 14:55:04.633] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$redirectSampleColor$0(Lnet/minecraft/client/multiplayer/ClientLevel;III)I to md0a6f8c$lambda$redirectSampleColor$0$1 in embeddium.mixins.json:features.render.world.sky.BackgroundRendererMixin
+[09Mar2024 14:55:04.917] [Worker-Main-2/INFO] [mixin/]: Mixing features.textures.mipmaps.MipmapHelperMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.MipmapGenerator
+[09Mar2024 14:55:05.035] [Worker-Main-7/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteContentsAnimationAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$AnimatedTexture
+[09Mar2024 14:55:05.044] [Worker-Main-7/INFO] [mixin/]: Mixing features.textures.animations.upload.SpriteContentsAnimationAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$AnimatedTexture
+[09Mar2024 14:55:06.397] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.2.0 Target: null
+[09Mar2024 14:55:08.471] [Worker-Main-3/INFO] [mixin/]: Mixing core.model.quad.BakedQuadMixin from embeddium.mixins.json into net.minecraft.client.renderer.block.model.BakedQuad
+[09Mar2024 14:55:08.578] [Worker-Main-3/INFO] [mixin/]: Mixing features.model.MultipartBakedModelMixin from embeddium.mixins.json into net.minecraft.client.resources.model.MultiPartBakedModel
+[09Mar2024 14:55:08.580] [Worker-Main-3/INFO] [mixin/]: Renaming synthetic method lambda$getModelComponents$0(I)[Lnet/minecraft/client/resources/model/BakedModel; to md0a6f8c$lambda$getModelComponents$0$0 in embeddium.mixins.json:features.model.MultipartBakedModelMixin
+[09Mar2024 14:55:08.822] [Worker-Main-3/INFO] [mixin/]: Mixing features.model.WeightedBakedModelMixin from embeddium.mixins.json into net.minecraft.client.resources.model.WeightedBakedModel
+[09Mar2024 14:55:13.447] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[09Mar2024 14:55:13.448] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[09Mar2024 14:55:13.630] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Speakers (Senary Audio)
+[09Mar2024 14:55:13.632] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[09Mar2024 14:55:13.976] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
+[09Mar2024 14:55:14.011] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.tracking.SpriteContentsAnimatorImplMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$Ticker
+[09Mar2024 14:55:14.013] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.upload.SpriteContentsAnimatorImplAccessor from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$Ticker
+[09Mar2024 14:55:14.055] [Render thread/INFO] [mixin/]: Mixing features.textures.animations.upload.SpriteContentsInterpolationMixin from embeddium.mixins.json into net.minecraft.client.renderer.texture.SpriteContents$InterpolationData
+[09Mar2024 14:55:14.207] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/signs.png-atlas
+[09Mar2024 14:55:14.210] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[09Mar2024 14:55:14.216] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[09Mar2024 14:55:14.220] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
+[09Mar2024 14:55:14.274] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[09Mar2024 14:55:14.275] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
+[09Mar2024 14:55:14.279] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[09Mar2024 14:55:14.281] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[09Mar2024 14:55:14.379] [Render thread/INFO] [mixin/]: Mixing features.render.entity.cull.EntityRendererMixin from embeddium.mixins.json into net.minecraft.client.renderer.entity.EntityRenderer
+[09Mar2024 14:55:14.519] [Render thread/INFO] [mixin/]: Mixing features.render.entity.fast_render.ModelPartMixin from embeddium.mixins.json into net.minecraft.client.model.geom.ModelPart
+[09Mar2024 14:55:14.520] [Render thread/INFO] [mixin/]: Renaming synthetic method lambda$onInit$0(I)[Lnet/minecraft/client/model/geom/ModelPart; to md0a6f8c$lambda$onInit$0$0 in embeddium.mixins.json:features.render.entity.fast_render.ModelPartMixin
+[09Mar2024 14:55:14.525] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field cubes:Ljava/util/List; in embeddium.mixins.json:features.render.entity.fast_render.ModelPartMixin::handler$zdj000$onInit
+[09Mar2024 14:55:14.525] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field children:Ljava/util/Map; in embeddium.mixins.json:features.render.entity.fast_render.ModelPartMixin::handler$zdj000$onInit
+[09Mar2024 14:55:14.555] [Render thread/INFO] [mixin/]: Mixing features.render.entity.fast_render.CuboidMixin from embeddium.mixins.json into net.minecraft.client.model.geom.ModelPart$Cube
+[09Mar2024 14:55:14.556] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field minX:F in embeddium.mixins.json:features.render.entity.fast_render.CuboidMixin::redirect$zco000$onInit
+[09Mar2024 14:55:15.114] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[09Mar2024 14:55:15.359] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[09Mar2024 14:55:15.384] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[09Mar2024 14:55:15.390] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[09Mar2024 14:55:15.868] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[09Mar2024 14:55:17.447] [Render thread/INFO] [mixin/]: Mixing fontshadow.FontMixin$StringRenderOutputMixin from embeddiumplus.mixin.json into net.minecraft.client.gui.Font$StringRenderOutput
+[09Mar2024 14:55:34.668] [Render thread/INFO] [mixin/]: Mixing embeddium.EmbOptionsMixin from embeddiumplus.mixin.json into me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI
+[09Mar2024 14:55:34.670] [Render thread/INFO] [mixin/]: Mixing sodium.MixinSodiumOptionsGUI from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI
+[09Mar2024 14:55:34.688] [Render thread/INFO] [mixin/]: Mixing embeddium.EmbPagesMixin from embeddiumplus.mixin.json into me.jellysquid.mods.sodium.client.gui.SodiumGameOptionPages
+[09Mar2024 14:55:34.712] [Render thread/INFO] [mixin/]: Mixing sodium.MixinOptionImpl from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.options.OptionImpl
+[09Mar2024 14:55:34.719] [Render thread/INFO] [mixin/]: Mixing sodium.MixinControlElement from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.options.control.ControlElement
+[09Mar2024 14:55:34.746] [Render thread/INFO] [mixin/]: Mixing sodium.MixinSliderControlElement from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.options.control.SliderControl$Button
+[09Mar2024 14:55:34.747] [Render thread/INFO] [mixin/]: Renaming @Unique field maxI to fd0a6f8c$max$0 in reeses-sodium-options.mixins.json:sodium.MixinSliderControlElement
+[09Mar2024 14:55:34.790] [Render thread/INFO] [mixin/]: Mixing sodium.MixinTickBoxControlElement from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.options.control.TickBoxControl$TickBoxControlElement
+[09Mar2024 14:55:34.808] [Render thread/INFO] [mixin/]: Mixing sodium.MixinCyclingControlElement from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.options.control.CyclingControl$CyclingControlElement
+[09Mar2024 14:55:34.858] [Render thread/INFO] [mixin/]: Mixing sodium.MixinFlatButtonWidget from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.gui.widgets.FlatButtonWidget
+[09Mar2024 14:55:34.879] [Render thread/INFO] [mixin/]: Mixing sodium.MixinDim2i from reeses-sodium-options.mixins.json into me.jellysquid.mods.sodium.client.util.Dim2i
+[09Mar2024 14:55:34.882] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field x:I in reeses-sodium-options.mixins.json:sodium.MixinDim2i::setX
+[09Mar2024 14:55:34.883] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field y:I in reeses-sodium-options.mixins.json:sodium.MixinDim2i::setY
+[09Mar2024 14:55:34.883] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field width:I in reeses-sodium-options.mixins.json:sodium.MixinDim2i::setWidth
+[09Mar2024 14:55:34.883] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field height:I in reeses-sodium-options.mixins.json:sodium.MixinDim2i::setHeight
+[09Mar2024 14:55:48.519] [Render thread/INFO] [Embeddium/]: Flushed changes to Embeddium configuration
+[09Mar2024 14:55:48.522] [Render thread/INFO] [Embeddium/]: Flushed changes to Embeddium configuration
+[09Mar2024 14:55:51.172] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[09Mar2024 14:55:53.928] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[09Mar2024 14:55:54.102] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[09Mar2024 14:55:54.811] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
+[09Mar2024 14:55:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Mar2024 14:55:55.147] [Server thread/INFO] [mixin/]: Mixing NoiseConfigMixin from mixins.netherenditions.json into net.minecraft.world.level.levelgen.RandomState
+[09Mar2024 14:55:55.307] [Server thread/INFO] [mixin/]: Mixing ClimateSamplerMixin from mixins.netherenditions.json into net.minecraft.world.level.biome.Climate$Sampler
+[09Mar2024 14:55:55.361] [Server thread/INFO] [mixin/]: Mixing core.world.chunk.PackedIntegerArrayMixin from embeddium.mixins.json into net.minecraft.util.SimpleBitStorage
+[09Mar2024 14:55:58.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Mar2024 14:56:00.991] [Server thread/INFO] [mixin/]: Mixing core.world.chunk.PalettedContainerMixin from embeddium.mixins.json into net.minecraft.world.level.chunk.PalettedContainer
+[09Mar2024 14:56:01.052] [Server thread/INFO] [mixin/]: Mixing core.world.chunk.EmptyPaletteStorageMixin from embeddium.mixins.json into net.minecraft.util.ZeroBitStorage
+[09Mar2024 14:56:06.821] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.821] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.822] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.823] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.823] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:06.994] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Mar2024 14:56:07.498] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[09Mar2024 14:56:07.996] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[09Mar2024 14:56:08.492] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[09Mar2024 14:56:09.004] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[09Mar2024 14:56:09.462] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Mar2024 14:56:09.466] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10475 ms
+[09Mar2024 14:56:10.040] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 6, from 10
+[09Mar2024 14:56:10.048] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 5, from 0
+[09Mar2024 14:56:10.259] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[09Mar2024 14:56:11.331] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
+[09Mar2024 14:56:11.338] [Netty Local Client IO #0/INFO] [mixin/]: Mixing core.world.map.ClientPlayNetworkHandlerMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientPacketListener
+[09Mar2024 14:56:11.399] [Netty Local Client IO #0/INFO] [mixin/]: Mixing core.gui.DownloadingTerrainScreenMixin from embeddium.mixins.json into net.minecraft.client.gui.screens.ReceivingLevelScreen
+[09Mar2024 14:56:11.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:bbb05999] logged in with entity id 261 at (7.196811939364399, 77.73386236943708, -39.86111964436871)
+[09Mar2024 14:56:11.512] [Render thread/INFO] [mixin/]: Mixing core.world.map.ClientChunkManagerMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientChunkCache
+[09Mar2024 14:56:11.608] [Render thread/INFO] [mixin/]: Mixing features.world.storage.ClientChunkMapMixin from embeddium.mixins.json into net.minecraft.client.multiplayer.ClientChunkCache$Storage
+[09Mar2024 14:56:11.612] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field chunkRadius:I in embeddium.mixins.json:features.world.storage.ClientChunkMapMixin::handler$zce000$reinit
+[09Mar2024 14:56:11.612] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field viewRange:I in embeddium.mixins.json:features.world.storage.ClientChunkMapMixin::handler$zce000$reinit
+[09Mar2024 14:56:11.613] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field chunks:Ljava/util/concurrent/atomic/AtomicReferenceArray; in embeddium.mixins.json:features.world.storage.ClientChunkMapMixin::handler$zce000$reinit
+[09Mar2024 14:56:11.640] [Render thread/INFO] [mixin/]: Mixing core.render.world.ChunkBuilderMixin from embeddium.mixins.json into net.minecraft.client.renderer.chunk.ChunkRenderDispatcher
+[09Mar2024 14:56:11.677] [Render thread/INFO] [mixin/]: Mixing features.render.model.RenderLayersMixin from embeddium.mixins.json into net.minecraft.client.renderer.ItemBlockRenderTypes
+[09Mar2024 14:56:11.679] [Render thread/INFO] [mixin/]: Mixing features.options.render_layers.RenderLayersMixin from embeddium.mixins.json into net.minecraft.client.renderer.ItemBlockRenderTypes
+[09Mar2024 14:56:11.682] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field TYPE_BY_BLOCK:Ljava/util/Map; in embeddium.mixins.json:features.render.model.RenderLayersMixin::<clinit>
+[09Mar2024 14:56:11.682] [Render thread/WARN] [mixin/]: Write access to @Mutable @Final field TYPE_BY_FLUID:Ljava/util/Map; in embeddium.mixins.json:features.render.model.RenderLayersMixin::<clinit>
+[09Mar2024 14:56:11.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[09Mar2024 14:56:11.918] [Render thread/INFO] [ChunkBuilder/]: Started 4 worker threads
+[09Mar2024 14:56:12.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[09Mar2024 14:56:12.607] [Render thread/INFO] [mixin/]: Mixing core.render.frustum.FrustumMixin from embeddium.mixins.json into net.minecraft.client.renderer.culling.Frustum
+[09Mar2024 14:56:13.115] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2 advancements
+[09Mar2024 14:56:13.510] [Chunk Render Task Executor #1/INFO] [mixin/]: Mixing features.model.ModelDataBuilderMixin from embeddium.mixins.json into net.minecraftforge.client.model.data.ModelData$Builder
+[09Mar2024 14:56:29.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[09Mar2024 14:56:42.848] [Worker-Main-7/INFO] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.netherenditions.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09Mar2024 14:56:56.119] [Render thread/INFO] [mixin/]: Mixing core.render.immediate.consumer.SpriteTexturedVertexConsumerMixin from embeddium.mixins.json into net.minecraft.client.renderer.SpriteCoordinateExpander
+[09Mar2024 14:56:56.507] [Render thread/INFO] [mixin/]: Mixing core.render.immediate.consumer.VertexConsumersMixin$DualMixin from embeddium.mixins.json into com.mojang.blaze3d.vertex.VertexMultiConsumer$Double
+[09Mar2024 14:57:37.543] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[09Mar2024 14:57:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:overworld
+[09Mar2024 14:57:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:the_end
+[09Mar2024 14:57:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:the_nether
+[09Mar2024 14:57:38.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[09Mar2024 14:57:38.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[09Mar2024 14:57:38.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[09Mar2024 14:57:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Mar2024 14:57:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Mar2024 14:57:38.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Mar2024 14:57:43.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:overworld
+[09Mar2024 14:57:44.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:the_end
+[09Mar2024 14:57:44.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[BOLES]'/minecraft:the_nether
+[09Mar2024 14:57:44.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (BOLES): All chunks are saved
+[09Mar2024 14:57:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Mar2024 14:57:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Mar2024 14:57:44.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Mar2024 14:57:47.032] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
+[09Mar2024 14:58:10.564] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
